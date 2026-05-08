@@ -1,6 +1,6 @@
 ![](https://github.com/sabrinaceciliajeria-cmyk/RefugioAnimales/raw/main/screenshot-1775781823.png)
 
-# 🎮 RPG System - JavaScriptia
+# 🎮 RPG System - JavaScript
 
 Sistema RPG en consola desarrollado con JavaScript puro (Node.js) como parte de un challenge de práctica de programación.
 
@@ -132,4 +132,3 @@ rpg-system/
  Sabrina Jeria
 ```
 
----

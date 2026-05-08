@@ -108,6 +108,7 @@ rpg-system/
 - README.md  
 - save.json
 - .gitignore
+  
 ---
 
 
@@ -124,12 +125,13 @@ rpg-system/
 
 ## 👥 Autores
 
- Arantxa Fischer
- Manuel Labrador
- Cristian Díaz
- Cristopher Contreras
- Natalia Medel
- Diego Peña
- Sabrina Jeria
+ Arantxa Fischer,
+ Manuel Labrador,
+ Cristian Díaz,
+ Cristopher Contreras,
+ Natalia Medel,
+ Diego Peña,
+ Sabrina Jeria.
+ 
 ```
 

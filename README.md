@@ -106,7 +106,8 @@ rpg-system/
 - app.js  
 - package.json  
 - README.md  
-
+- save.json
+- .gitignore
 ---
 
 
